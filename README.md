@@ -113,7 +113,6 @@ Contributions to this project are welcome. Please follow these steps to contribu
 ## How to Run the Notebook
 1. Clone the repository: `git clone <repository_url>`
 2. Navigate to the project directory: `cd <project_directory>`
-3. Install the required packages: `pip install -r requirements.txt`
-4. Open the Jupyter Notebook: `jupyter notebook HR_Analytics_Report.ipynb`
+3. Open the Jupyter Notebook: `jupyter notebook HR_Analytics_Report.ipynb`
 
 ---
